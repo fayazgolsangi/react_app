@@ -295,7 +295,7 @@ label {
 	margin: 0 15px;
 }
 .main-menu ul li > a {
-	color: #fff;
+	color: #000;
 	display: block;
 	font-size: 20px;
 	font-weight: regular;
@@ -332,7 +332,7 @@ label {
 .btn-border.no-border {
 	border: transparent;
 	background: none;
-	color: #fff;
+	color: #000;
 }
 .header-full{padding: 0 200px;}
 .header-3 .main-menu ul li > a {

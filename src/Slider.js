@@ -3,7 +3,7 @@ import React from 'react';
 function Slider(props) {
     return (
         <div className="slider-area">
-			<div className="slider-wrapper pt-255" style={{backgroundImage: 'url(img/slider/slider.jpg)'}}>
+			{/* <div className="slider-wrapper pt-255" style={{backgroundImage: 'url(img/slider/slider.jpg)'}}> */}
 				<div className="container">
 					<div className="row">
 						<div className="col-xl-8 col-lg-8 offset-lg-2 offset-xl-2">
@@ -15,7 +15,7 @@ function Slider(props) {
 					</div>
 				</div>
 			</div>
-        </div>
+        // </div>
     );
 }
 
